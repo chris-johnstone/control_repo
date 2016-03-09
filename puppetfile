@@ -1,0 +1,6 @@
+# Forge Modules
+mod puppetlabs/windows 'latest'
+
+# Git Modules
+mod "Sumo Logic",
+	:git=> "git://github.com/SumoLogic/sumo-collector-puppet-module"
